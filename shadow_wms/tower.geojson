@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "tower",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25832" } },
+"features": [
+{ "type": "Feature", "properties": { "absolute": 370.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 509472.3, 6200830.2 ], [ 509472.3, 6200854.6 ], [ 509504.0, 6200854.6 ], [ 509504.0, 6200830.2 ], [ 509472.3, 6200830.2 ] ] ] } }
+]
+}
